@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hi, I am Gilbert Twesigomwe👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manpikingillz&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manpikingillz&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=manpikingillz&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manpikingillz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=832019&layout=compact&theme=dark)](https://stackoverflow.com/users/832019/manpikin)
 
 <!--
 **manpikingillz/manpikingillz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
